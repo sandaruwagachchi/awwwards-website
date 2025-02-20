@@ -10,7 +10,7 @@ const socialLinks = [
 const Footer = () => {
   return (
     <footer className="w-screen bg-[#000000] py-4 text-white">
-      <div className="container mx-auto flex flex-col items-center justify-between gap-4 px-4 md:flex-row">
+      <div className="container mx-auto flex flex-col items-center justify-between gap-4 px-12 md:flex-row">
         <p className="text-center text-sm font-light md:text-left">
           ©Sandaru Wagachchi 2025. All rights reserved
         </p>
